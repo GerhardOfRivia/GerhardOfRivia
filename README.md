@@ -4,7 +4,6 @@ My name is Gerhard,
 
 - :book: I like to [read](https://gerhardofrivia.github.io/books)
 - :thinking: I sometimes write notes of my software adventures on my [blog](https://gerhardofrivia.github.io/posts)
-- :computer: My [resume](https://gerhardofrivia.github.io/assets/resume.pdf)
 
 <!--
 **GerhardOfRivia/GerhardOfRivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
